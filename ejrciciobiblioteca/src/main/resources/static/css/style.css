@@ -1,0 +1,15 @@
+body{
+    
+    background-image: url(/image/7cdcf7e7b537053d69665092c06a2287.jpg );
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.formulario{
+    width: 15%;
+    padding: 1px;
+    border-radius: 3%;
+    
+}
+

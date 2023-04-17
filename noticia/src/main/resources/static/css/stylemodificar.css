@@ -1,0 +1,32 @@
+body{
+    
+    background-image: url(../image/diariodigital.jpeg);
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.card{
+    justify-content: center;
+    background-color: bisque;
+    opacity: 80%;
+    margin: auto;
+    margin-top: 1.5%;
+    width: 50%;
+    padding: auto;
+    border-radius: 10px;
+    border-color: forestgreen;
+}
+
+.contenedor{
+    color: white; 
+    opacity: 80%;
+    background-color: grey; 
+    margin: auto;
+    margin-top: 1.5%;
+    width: 70%;
+    padding: auto;
+    border-radius: 10px; 
+    border: 1px solid forestgreen;
+}
